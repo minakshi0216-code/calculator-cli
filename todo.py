@@ -1,3 +1,5 @@
+#To do list application
+#created by Minakshi
 tasks = []   
 
 def show_menu():
@@ -41,4 +43,5 @@ while True:
         print("Goodbye")
         break
     else:
+
         print("Invalid choice")
